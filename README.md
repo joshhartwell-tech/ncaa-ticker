@@ -1,2 +1,0 @@
-# ncaa-ticker
-ncaa-ticker
